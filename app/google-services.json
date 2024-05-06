@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "943597730394",
+    "firebase_url": "https://doaniot-c6a10-default-rtdb.firebaseio.com",
+    "project_id": "doaniot-c6a10",
+    "storage_bucket": "doaniot-c6a10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943597730394:android:67cc0f2f6e07aa91d9b663",
+        "android_client_info": {
+          "package_name": "com.example.doaniotbk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC42otAgE2m77y0bR9b96l3v7QF9OOiOaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
